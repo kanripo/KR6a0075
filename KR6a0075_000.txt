@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛為黃竹園老婆羅門說學經
+#+DATE: 2015-08-30 19:30:16.664663
+#+PROPERTY: JUAN 0
