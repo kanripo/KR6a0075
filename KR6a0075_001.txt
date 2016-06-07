@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:16.498655
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:32
 #+TITLE: 佛為黃竹園老婆羅門說學經
 #+PROPERTY: CBETA_ID T01n0075
 #+PROPERTY: ID KR6a0075
